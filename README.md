@@ -11,4 +11,4 @@ bundle exec lets_rock.exe
 
 ## FASE 04 - VIEW
 ### Cap 7 - A rede social dos desenvolvedores 
-- [Site Fintech](https://github.com/jpedrosg/fiap/blob/main/Fase%2001/Cap%C3%ADtulo%2002/pesquisa_concorrencia_rm93813.docx)
+- [Site Fintech](https://github.com/jpedrosg/fiap/tree/main/Fase%2004/Cap%C3%ADtulo%2007/Site%20Fintech)
